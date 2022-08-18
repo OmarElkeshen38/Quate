@@ -1,0 +1,29 @@
+body {
+    font-family: 'Cairo', sans-serif;
+    background-color: #cdeef7;
+}
+.home {
+    background-color: #cdeef7;
+    color: #695d74;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+}
+.home h1 {
+    font-size: 5rem;
+}
+p {
+    font-size: 2rem;
+}
+.quates {
+    color: #000;
+}
+button {
+    background-color: #D1E0EB;
+    color: #000;
+    transition: all 0.25s;
+}
+button:hover {
+    background-color: #000;
+    color: #FFFCDC;
+}
